@@ -150,4 +150,5 @@ public class Selector extends JFrame {
         lblAzul.setText("Azul " + SAzul.getValue());
     }
 }
+![Selector](https://github.com/joeldevportugal/Seletor-Cores--Java/assets/135770029/1f34e3eb-a806-4901-a964-fb5390b22f39)
 
